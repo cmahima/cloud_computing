@@ -1,2 +1,3 @@
 # cloud_computing
-This project was a start to my journey in Cloud Computing. Learnt about Membership Protocols, ACID properties, Key Value Stores
+An implementation of membership protocol in P2P systems. The gossip style membership protocol has been used. It is wriitn so that it detects failure to ensure accuracy and completeness.
+It works for single node failure and multiple node failure
